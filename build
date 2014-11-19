@@ -1,2 +1,0 @@
-#!/bin/bash
-g++ -v -lqpdf -lpcre -lz -o cpdflin pdf-linearize.cpp
